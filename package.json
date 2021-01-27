@@ -1,0 +1,17 @@
+{
+  "name": "jatkasaaren-ratikat",
+  "version": "1.0.0",
+  "description": "hsl realtime positioning api, with mqtt protocol",
+  "main": "ratikat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "Feeliks Kilpi",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  }
+}

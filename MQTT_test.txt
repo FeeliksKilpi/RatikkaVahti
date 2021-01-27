@@ -1,0 +1,7 @@
+mqtt subscribe -h mqtt.hsl.fi -l mqtts -p 8883 -v \
+-t "/hfp/v2/journey/ongoing/vp/tram/+/+/+/+/+/+/+/+/60;24/19/62/01/#" \
+-t "/hfp/v2/journey/ongoing/vp/tram/+/+/+/+/+/+/+/+/60;24/19/61/09/#" \
+-t "/hfp/v2/journey/ongoing/vp/tram/+/+/+/+/+/+/+/+/60;24/19/52/91/#" \
+-t "/hfp/v2/journey/ongoing/vp/tram/+/+/+/+/+/+/+/+/60;24/19/62/00/#" \
+-t "/hfp/v2/journey/ongoing/vp/tram/+/+/+/+/+/+/+/+/60;24/19/62/00/#" \
+-t "/hfp/v2/journey/ongoing/vp/tram/+/+/+/+/+/+/+/+/60;24/19/51/98/#"
